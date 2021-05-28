@@ -2,7 +2,7 @@
 Simple PHP Algorithm/game for guessing user inputs and learning more about the properties of the items so it can improve itself, made for a code challenge.
 
 ## Requirements:
-  - Any PHP web server
+  - PHP web server (PHP Version 7.4 and up)
   - Composer
 
 ## Use:
